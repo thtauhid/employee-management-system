@@ -16,8 +16,8 @@ Add New Volunteer: http://localhost:5000/add/volunteer [POST]
 ```
 {
 	"youthid": "",
-	"full_name": "",
-	"institution"
+	"fullname": "",
+	"institution": ""
 }
 ```
 
@@ -25,13 +25,6 @@ View Existing Volunteers: http://localhost:5000/view/volunteer/all [GET]
 
 `{}`
 
-Edit Volunteer: http://localhost:5000/edit/volunteer [GET]
-
-```
-{
-	"youthid": ""
-}
-```
 View Volunteer Profile: http://localhost:5000/view/volunteer/:id [GET]
 
 ```
