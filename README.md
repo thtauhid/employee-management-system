@@ -1,3 +1,13 @@
+## Roadmap
+1. Add Employee
+2. Delete Employee
+3. Update Employee Details
+4. Attendance
+5. View all Employees
+6. Indivisual Employee Profile
+7. Stats
+8. Molibe App
+
 ## Technologies Used:
 
 ### Front End:
