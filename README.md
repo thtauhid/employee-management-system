@@ -11,24 +11,24 @@
 
 ### Back End:
 
-Add New Volunteer: http://localhost:5000/add/volunteer [POST]
+Add New Employee: http://localhost:5000/add/employee [POST]
 
 ```
 {
-	"youthid": "",
+	"employeeid": "",
 	"fullname": "",
 	"institution": ""
 }
 ```
 
-View Existing Volunteers: http://localhost:5000/view/volunteer/all [GET]
+View Existing Employee: http://localhost:5000/view/employee/all [GET]
 
 `{}`
 
-View Volunteer Profile: http://localhost:5000/view/volunteer/:id [GET]
+View Employee Profile: http://localhost:5000/view/employee/:id [GET]
 
 ```
 {
-	"youthid": ""
+	"employeeid": ""
 }
 ```
