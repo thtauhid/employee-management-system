@@ -6,7 +6,7 @@
 5. View all Employees
 6. Indivisual Employee Profile
 7. Stats
-8. Molibe App
+8. Mobile App
 
 ## Technologies Used:
 
